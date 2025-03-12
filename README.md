@@ -7,5 +7,5 @@ Menu-based drink selection
 Coin-based payment system
 Validation of sufficient funds
 Automatic calculation and return of change
-Simulated drink dispensing
+Simulated drink dispensing 
 This project demonstrates basic concepts of conditional statements, loops, functions, and user interaction in Python.
