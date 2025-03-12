@@ -4,7 +4,9 @@ This Python-based café vending machine simulates a real-world beverage dispense
 Key Features:
 
 Menu-based drink selection
+
 Coin-based payment system
+
 Validation of sufficient funds
 Automatic calculation and return of change
 Simulated drink dispensing 
