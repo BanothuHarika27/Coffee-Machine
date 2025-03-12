@@ -1,2 +1,2 @@
-# Cafe- Machine
+# CAFE-MACHINE
 this is pthon project
