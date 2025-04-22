@@ -59,13 +59,13 @@ def ma():
 			w= int(input("Enter no of Rs20 coins:"))
 			global total
 			total = y*5 +z*10 + w*20
-			if total>= dic[drink]["cost"] and res(drink):
+			if total>= dic[drink]["cost"] :
 				change = total - dic[drink]["cost"]
 				print(f"Here is your drink {drink} and your change is {change}")
 			elif total <dic[drink]["cost"]: 
 				print("You have entered insufficient amount")
-			else:
-				print("Insufficient resources")
+		else:
+			print("Insufficient resources")
 				
 	global y 
 	y+= dic[x]["cost"]
