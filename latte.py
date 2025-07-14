@@ -27,6 +27,7 @@ dic={
 	"cost":250
 	},
 }
+
 total =0
 resources = {
 	"milk":1000,
